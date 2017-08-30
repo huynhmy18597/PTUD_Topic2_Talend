@@ -1,0 +1,11 @@
+mssv,hoten,namsinh,nganh,diachi,phai
+15062739,Bach Qua,1997,IT,Nam Son,nu
+15065688,Dau Tay,1997,IT,New York,nu
+15078472,Oc cho,1987,Thuong Mai Du Lich,Long An,nu
+14089583,Mang Cut,1999,QT doanh Nghiep,Ca Mau,nam
+16067548,Chom Chom,1998,QT nha hang,Bac Lieu,nam
+16098642,Nhan Tieu,1865,Ke Toan,Ha Giang,nam
+12032647,Nho Den,1889,Kiem Toan,Bac Kinh,nu
+13086457,Vai Thieu,1966,HTTT,Yen Bai,nu
+19073263,Cam Sanh,1994,KHMT,Phu Yen,nam
+18089327,Tao My,1996,Ngon Ngu Anh,Gia Lai,nam
